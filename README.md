@@ -1,7 +1,4 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/a2/e1/a4/a2e1a48fd5a60513ac998c6b3723b435.jpg" width="100%"  />
-</p>
 
 
 
