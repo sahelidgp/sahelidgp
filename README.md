@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://images8.alphacoders.com/138/1380473.png" width="100%" height="50%"/>
+  <img src="https://wallpapercave.com/wp/wp14115980.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Saheli Mahanty ✨</h1>
