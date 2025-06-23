@@ -1,7 +1,8 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp14115980.png" width="10%" />
+  <img src="https://i.pinimg.com/736x/a2/e1/a4/a2e1a48fd5a60513ac998c6b3723b435.jpg" width="100%" height="30%" />
 </p>
+
 
 <h1 align="center">👋 Hi, I’m Saheli Mahanty ✨</h1>
 
