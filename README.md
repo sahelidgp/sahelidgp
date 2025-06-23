@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/sahelimahanty/sahelimahanty/assets/your-banner-image.png" width="80%" />
+  <img src="https://images8.alphacoders.com/138/1380473.png" width="100%" height="50%"/>
 </p>
 
 <h1 align="center">👋 Hi, I’m Saheli Mahanty ✨</h1>
