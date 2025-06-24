@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/sahelimahanty">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F07090&center=true&vCenter=true&width=500&lines=DSA+Enthusiast;Competitive+Programmer;Real+World+Project+Builder;Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=f365dd&center=true&vCenter=true&width=500&lines=DSA+Enthusiast;Competitive+Programmer;Real+World+Project+Builder;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
 
