@@ -12,6 +12,11 @@
 
 ---
 
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1500"/>
+</div>
+
 ## 🚀 About Me
 - 👀 I’m interested in **DSA, CP, and real-world projects**
 - 🌱 I’m currently learning **JavaScript**
@@ -38,7 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahelidgp&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahelidgp&show_icons=true&theme=tokyonight" width="90%" />
   <img src="https://streak-stats.demolab.com?user=sahelidgp&theme=tokyonight" width="48%" />
 </p>
 
