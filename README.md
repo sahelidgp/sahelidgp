@@ -46,7 +46,49 @@
 </p>
 
 ---
+# 🚀 Featured Project
 
+<p align="center">
+<table>
+<tr>
+<td width="100%" align="center">
+
+
+
+<h2>🏠 Real Estate Price Predictor</h2>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=🏠+Real+Estate+Price+Predictor;🧠+Machine+Learning+Powered;📈+Smart+Property+Price+Estimation;⚡+Built+with+Python+%26+Scikit-Learn;🚀+Live+Deployed+Project" />
+
+</p>
+
+
+
+
+<br><br>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<br><br>
+
+ <a href="https://real-estate-price-predictor-1-d5hf.onrender.com">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-8A2BE2?style=for-the-badge"/>
+</a> 
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/sahelidgp/real-estate-price-predictor">
+  <img src="https://img.shields.io/badge/💻%20Source%20Code-111827?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+</td>
+</tr>
+</table>
+</p>
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/saheli-mahanty-a2216330b/" target="_blank">
