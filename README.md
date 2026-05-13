@@ -1,7 +1,6 @@
 <!-- Banner Image -->
 
 
-
 <h1 align="center">👋 Hi, I’m Saheli Mahanty ✨</h1>
 
 <p align="center">
