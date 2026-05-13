@@ -42,8 +42,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahelidgp&show_icons=true&theme=tokyonight" width="90%" />
-  <img src="https://streak-stats.demolab.com?user=sahelidgp&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=sahelidgp&theme=tokyonight" width="90%" />
 </p>
 
 ---
@@ -66,5 +65,5 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1500"/>
 </div>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahelimahanty" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sahelimahanty" alt="Visitor Count" width="100" />
 </p>
