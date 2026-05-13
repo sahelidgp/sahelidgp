@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I’m Saheli Mahanty ✨</h1>
 
 <p align="center">
-  <a href="https://github.com/sahelimahanty">
+  <a href="https://github.com/sahelidgp">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=f365dd&center=true&vCenter=true&width=500&lines=DSA+Enthusiast;Competitive+Programmer;Real+World+Project+Builder;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
 </p>
@@ -15,9 +15,6 @@
 ---
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1500"/>
-</div>
 
 ## 🚀 About Me
 - 👀 I’m interested in **DSA, CP, and real-world projects**
@@ -63,11 +60,11 @@
 
 ---
 
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1500"/>
+</div>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sahelimahanty" alt="Visitor Count" />
-</p>
-<p align="center">
-  <a href="https://github.com/sahelimahanty">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=f365dd&center=true&vCenter=true&width=500&lines=DSA+Enthusiast;Competitive+Programmer;Real+World+Project+Builder;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
 </p>
