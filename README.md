@@ -40,10 +40,7 @@
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sahelidgp&theme=tokyonight" width="90%" />
-</p>
+
 
 ---
 # 🚀 Featured Project
