@@ -15,12 +15,21 @@
 ---
 
 
+Hi, I'm Saheli 👋
 
-## 🚀 About Me
-- 👀 I’m interested in **DSA, CP, and real-world projects**
-- 🌱 I’m currently learning **JavaScript**
-- 💬 I love to collaborate and build something exciting!
-- 😄 Pronouns: **She/Her**
+🎓 CSE @ NIT Durgapur
+
+💻 Systems Programming | Full Stack Development | Computer Networks
+
+🚀 Featured Projects
+- CodeVerse
+- FaultForge
+- SyphonX
+
+🏆 Achievements
+- LeetCode Rating: 1592
+- CodeChef 3★ (1618)
+- Global Rank 44 in CodeChef Starters 238
 
 ---
 
@@ -39,7 +48,9 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
+## 📈 GitHub Activity Graph
 
+[![Saheli's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahelidgp&theme=github-dark)](https://github.com/sahelidgp)
 
 
 ---
