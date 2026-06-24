@@ -26,10 +26,7 @@ Hi, I'm Saheli 👋
 - FaultForge
 - SyphonX
 
-🏆 Achievements
-- LeetCode Rating: 1592
-- CodeChef 3★ (1618)
-- Global Rank 44 in CodeChef Starters 238
+
 
 ---
 
