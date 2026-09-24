@@ -45,10 +45,12 @@ Hi, I'm Saheli 👋
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
-## 📈 GitHub Activity Graph
 
-[![Saheli's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahelidgp&theme=github-dark)](https://github.com/sahelidgp)
+## 📊 GitHub Contributions
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahelidgp&theme=github_dark" width="100%"/>
+</p>
 
 ---
 # 🚀 Featured Project
